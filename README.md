@@ -45,7 +45,7 @@ http://localhost/Your_Folder's_Name/
 
 ---
 
-## Screenshots
+## Screenshot
 ![Web Page](webpage.png)
 ---
 
